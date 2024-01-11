@@ -15,3 +15,6 @@ Payllaşımlara yorum da yapılabilir yapılan yorumları görmek için refresh 
 
 Sağ üstten giriş yapılan kişinin profiline gidilebilir oradan default profil fotoğralarından seçilebilir.
 <img width="1669" alt="Screen Shot 2024-01-11 at 15 54 33" src="https://github.com/erkantekel/crudapp/assets/81853102/e95f2228-cd31-4727-976a-3e9b4423cb0b">
+
+
+docker-compose.yml vardır db oradan kaldırılabilir.
